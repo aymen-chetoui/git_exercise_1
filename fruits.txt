@@ -1,3 +1,5 @@
 apple
 blue berry
 orange
+peach
+figue
